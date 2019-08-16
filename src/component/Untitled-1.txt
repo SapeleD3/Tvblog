@@ -1,0 +1,4 @@
+Tech Giant Invests Huge Money to Build a Computer Out of Science Fiction
+The tech giant says it is ready to begin planning a quantum computer, a powerful cpu machine that relies on subatomic particles instead
+of transistors.
+create table feeds(id serial primary key, title varchar(250) unique not null, tagline varchar(500) not null, imageurl varchar(150), videourl varchar(100), description text not null);
